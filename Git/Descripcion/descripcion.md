@@ -2,11 +2,11 @@
 
 ## En este curso veremos:
 
-### 1. 
+### 1. Git Iniciación 
 
-### 2.
+### 2. Git Comandos
 
-### 3.
+### 3. GitHub
 
-### 4.
+### 4. Despedida
 
